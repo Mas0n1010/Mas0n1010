@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Improving my HTML and CSS language**
 
 - 🌱 I’m currently learning **HTML and CSS**
-- 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
