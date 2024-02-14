@@ -1,19 +1,18 @@
-<h1 align="center">Hi 👋, I'm Zack</h1>
-<h3 align="center">A passionate and dedicated learner trying to learn HTML and CSS</h3>
+# 💫 About Me:
+I'm currently working towards learning HTML and CSS for Frontend Web Development after that I am hoping to learn some backend coding to enhance my Web Development skills.
 
-- 🔭 I’m currently working on **Improving my HTML and CSS language**
 
-- 🌱 I’m currently learning **HTML and CSS**
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mas0n1010&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mas0n1010&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mas0n1010&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mas0n1010&show_icons=true&locale=en&layout=compact" alt="mas0n1010" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=Mas0n1010&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mas0n1010&show_icons=true&locale=en" alt="mas0n1010" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mas0n1010&" alt="mas0n1010" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
