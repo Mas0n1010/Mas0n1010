@@ -4,9 +4,7 @@
 - 🔭 I’m currently working on **Improving my HTML and CSS language**
 
 - 🌱 I’m currently learning **HTML and CSS**
-
-- 📄 Know about my experiences [At the moment I have no experience but I am looking to gain some](At the moment I have no experience but I am looking to gain some)
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
